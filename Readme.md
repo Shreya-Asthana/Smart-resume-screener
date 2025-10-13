@@ -4,20 +4,6 @@
 
 ---
 
-## Table of Contents
-
-1. [Objective](#objective)
-2. [Features](#features)
-3. [Tech Stack](#tech-stack)
-4. [Setup Instructions](#setup-instructions)
-5. [Usage](#usage)
-6. [Architecture](#architecture)
-7. [LLM Prompts](#llm-prompts)
-8. [Demo](#demo)
-9. [Future Improvements](#future-improvements)
-
----
-
 ## Objective
 
 The Smart Resume Screener automates candidate evaluation by:

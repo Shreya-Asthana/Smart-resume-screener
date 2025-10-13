@@ -1,0 +1,5 @@
+Flask
+python-dotenv
+pdfminer.six
+python-docx
+requests

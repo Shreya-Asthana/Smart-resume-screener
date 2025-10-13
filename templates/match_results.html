@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container mt-4">
+    <h2>Shortlisted Candidates (by Score)</h2>
+    <p><strong>Job Description:</strong></p>
+    <pre>{{ job_desc }}</pre>
+
+    <table class="table table-bordered table-striped mt-3">
+        <thead class="table-dark">
+            <tr>
+                <th>Candidate</th>
+                <th>Score</th>
+                <th>Matches</th>
+                <th>Recommendation</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for r in results %}
+            <tr>
+                <td>{{ r.rec.name or r.rec.filename }}</td>
+                <td>{{ "%.2f"|format(r.score) }}</td>
+                <td>
+                    {% if r.matches %}
+                        {% for skill in r.matches %}
+                            <span class="badge bg-primary me-1">{{ skill }}</span>
+                        {% endfor %}
+                    {% else %}
+                        —
+                    {% endif %}
+                </td>
+                <td>
+                    <pre>{{ r.recommendation }}</pre>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <strong>Justification:</strong>
+                    <pre>{{ r.justification | safe }}</pre>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endblock %}

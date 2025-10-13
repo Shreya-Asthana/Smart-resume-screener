@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Candidate: {{ rec.name or rec.filename }}</h2>
+<p><strong>Email:</strong> {{ rec.email or '—' }} &nbsp; <strong>Phone:</strong> {{ rec.phone or '—' }}</p>
+<p><strong>Skills:</strong> {{ skills|join(', ') }}</p>
+
+<h5>Experience</h5>
+<pre>{{ rec.experience or '—' }}</pre>
+
+<h5>Education</h5>
+<pre>{{ rec.education or '—' }}</pre>
+{% endblock %}

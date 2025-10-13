@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Candidates</h2>
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Name</th>
+      <th>Email</th>
+      <th>Skills</th>
+      <th>Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for rec in records %}
+    <tr>
+      <td>{{ rec.id }}</td>
+      <td>{{ rec.name or '-' }}</td>
+      <td>{{ rec.email or '-' }}</td>
+      <td>{{ rec.skills.replace(';', ', ') or '-' }}</td>
+      <td><a class="btn btn-sm btn-outline-primary" href="{{ url_for('candidate', rec_id=rec.id) }}">View</a></td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

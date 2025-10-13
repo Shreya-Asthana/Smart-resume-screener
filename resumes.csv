@@ -1,0 +1,177 @@
+id,filename,name,email,phone,skills,education,experience,text
+1,resume_ml.docx,Shreya Asthana,shreya.asthana05@gmail.com,+91-8059638768,,"VIT Bhopal University, Sehore, Madhya Pradesh - B. Tech.                      CGPA: 9.05/10	2022-2026
+Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning
+
+Aviraj World School, Rewari, Haryana - 12th Standard	                      92.34%	                             2021-2022
+
+Euro International School, Rewari, Haryana - 10th Standard	        94.83%                                      2019-2020","
+Microarray Data Analysis for SLE Classification| Github Link
+Designed and executed a deep learning project to classify Systemic Lupus Erythematosus (SLE) using the GSE50772 microarray dataset, which contained 61 SLE and 20 healthy control samples.
+Engineered two distinct pipelines—a spatial grid-based and a gene-level approach—to preprocess and analyze over 1.4 million data points per sample.
+Achieved high model performance, including an 80% accuracy with a 2D CNN on spatial data and a 94% accuracy with Random Forest on gene-level features.
+Applied advanced data science techniques, including dimensionality reduction (PCA), data aggregation, and class balancing (SMOTE), to prepare high-dimensional biological data.
+Technical Skills
+Python (scikit-learn, Pandas, NumPy, Matplotlib), Java, Flask, Streamlit, React.js, MySQL, MongoDB, Git, Jupyter Notebook, VS Code, Power BI, Tableau, Databricks. Expertise in Machine Learning, Data Preprocessing, EDA, Feature Engineering, and Generative AI (RAG, Embeddings, Chatbots)","Shreya Asthana
++91-8059638768 | shreya.asthana05@gmail.com | github.com/Shreya-Asthana | linkedin.com/in/asthanas
+
+Education
+VIT Bhopal University, Sehore, Madhya Pradesh - B. Tech.                      CGPA: 9.05/10	2022-2026
+Computer Science and Engineering with specialization in Artificial Intelligence and Machine Learning 
+
+Aviraj World School, Rewari, Haryana - 12th Standard	                      92.34%	                             2021-2022
+
+Euro International School, Rewari, Haryana - 10th Standard	        94.83%                                      2019-2020
+Experience
+SDE Intern – GenAI & Full-Stack Development| Epilepto Systems			June,2025-August,2025
+Contributed to GenAI and full-stack projects using Python, MERN stack, Flask, and Streamlit within Databricks for intelligent document processing.
+Designed and implemented LLM-powered RAG workflows integrating semantic search, vector databases, embedding models, and chatbot systems.
+Explored and utilized Databricks services including apps, serving endpoints, utility catalogs, APIs, and SQL warehouse to enable scalable AI solutions.
+Applied MLflow for experiment tracking worked with Figma, ensuring end-to-end solution development.
+Worked with MySQL and data-driven pipelines, enabling structured storage, retrieval, and integration with AI workflows.
+Projects
+Diabetes Risk Prediction Model for Women | Github Link
+Engineered a machine learning model to predict diabetes risk, achieving 89.73% accuracy using the Gradient Boosting Algorithm with scikit-learn.
+Addressed class imbalance in the dataset (400 non-diabetic vs. 250+ diabetic) using SMOTE, ensuring balanced model training and improving performance.
+Integrated the model into a Flask web application, allowing dynamic user input, data scaling, and prediction results to be displayed using render_template().
+Used an internal module (ml/trainer.py) to fetch and process training data, maintaining clean separation of logic for model training, testing, and prediction.
+
+AI-Powered Resume Evaluation System | Github Link 
+Engineered a React.js frontend for PDF upload, job description input, and dynamic result rendering using useState, conditional rendering, and Axios for API calls. 
+Built a Flask backend to process resumes with pdfplumber, securely integrate Gemini AI via dotenv, and generate AI-powered evaluation responses.
+Implemented logic for ATS score computation, section-wise matching, and professional HR insights using LLMs.
+Designed a clean, responsive UI with a soft pastel theme for seamless user experience.
+
+Microarray Data Analysis for SLE Classification| Github Link
+Designed and executed a deep learning project to classify Systemic Lupus Erythematosus (SLE) using the GSE50772 microarray dataset, which contained 61 SLE and 20 healthy control samples.
+Engineered two distinct pipelines—a spatial grid-based and a gene-level approach—to preprocess and analyze over 1.4 million data points per sample.
+Achieved high model performance, including an 80% accuracy with a 2D CNN on spatial data and a 94% accuracy with Random Forest on gene-level features.
+Applied advanced data science techniques, including dimensionality reduction (PCA), data aggregation, and class balancing (SMOTE), to prepare high-dimensional biological data.
+Technical Skills
+Python (scikit-learn, Pandas, NumPy, Matplotlib), Java, Flask, Streamlit, React.js, MySQL, MongoDB, Git, Jupyter Notebook, VS Code, Power BI, Tableau, Databricks. Expertise in Machine Learning, Data Preprocessing, EDA, Feature Engineering, and Generative AI (RAG, Embeddings, Chatbots)
+Certifications and training
+ Google Cloud Digital Leader – Google Cloud (2024–2027), IBM Data Fundamentals – IBM SkillsBuild, Applied Machine Learning in Python – Coursera, Introducing Generative AI with AWS – Udacity, AI Primer Certification – Infosys SpringBoard"
+2,resume_SDE_-_OnCampus.pdf,Shreya Asthana,shreya.asthana05@gmail.com,+91-8059638768,,"VIT Bhopal University, Sehore, Madhya Pradesh - B. Tech.                      CGPA: 9.05/10
+Computer Science and Engineering with
+Specialization in Artificial Intelligence and Machine Learning
+
+2022-2026
+
+Aviraj World School, Rewari, Haryana - 12th Standard
+
+92.34%
+
+2021-2022
+
+Euro International School, Rewari, Haryana - 10th Standard
+
+94.83%                                      2019-2020
+
+Technical Skills
+Programming Languages: Python, Java | Frameworks/Libraries: Flask, Streamlit, React.js | Databases: MySQL,
+MongoDB | Frontend: HTML, CSS (Tailwind CSS) | Tools: Git, GitHub, VS Code, Databricks
+","
+Co-Curricular Activities
+SolVIT Hackathon 2025 – Participant & GenAI Lead
+
+●  Developed an economic and efficient automated hiring solution for small-scale businesses as part of a 5-member
+
+team.
+","Shreya Asthana 
++91-8059638768 | shreya.asthana05@gmail.com | github.com/Shreya-Asthana | linkedin.com/in/asthanas 
+
+Education 
+VIT Bhopal University, Sehore, Madhya Pradesh - B. Tech.                      CGPA: 9.05/10 
+Computer Science and Engineering with 
+Specialization in Artificial Intelligence and Machine Learning  
+
+2022-2026 
+
+Aviraj World School, Rewari, Haryana - 12th Standard 
+
+                      92.34% 
+
+                             2021-2022 
+
+Euro International School, Rewari, Haryana - 10th Standard 
+
+        94.83%                                      2019-2020 
+
+Technical Skills 
+Programming Languages: Python, Java | Frameworks/Libraries: Flask, Streamlit, React.js | Databases: MySQL, 
+MongoDB | Frontend: HTML, CSS (Tailwind CSS) | Tools: Git, GitHub, VS Code, Databricks 
+
+Experience 
+SDE Intern | GenAI and full-stack development | Epilepto Systems  
+
+June,2025-Present 
+
+●  Contributing to GenAI and full-stack development projects using Python and the MERN stack 
+●  Building LLM-powered pipelines involving semantic search, vector databases (ChromaDB), and RAG workflows 
+●  Developing modular Streamlit and Flask applications within Databricks for intelligent document processing 
+● 
+Integrating OpenAI APIs and SQL warehouse with Databricks to enable scalable, data-driven AI solutions 
+
+Projects 
+Social Media WebApp – MaitriLok |Full Stack (MERN) | Github Link 
+
+●  Engineered a social media platform supporting posts, likes, comments, user feeds, real-time chat, and a follow 
+
+system as part of a 4-member team. 
+Implemented the Follow/Unfollow feature and enhanced chat functionality between connected users. 
+
+● 
+●  Developed the follow/unfollow logic using React.js and MongoDB for real-time user connection management. 
+●  Optimized chat interactions by fetching follower/following lists to restrict messaging to mutually connected users.  
+
+Recipe Finder WebApp| React.js and API Integration | Github Link 
+
+●  Built a responsive web application using React.js to help users discover recipes based on ingredients or dish names. 
+●  Designed and implemented an intuitive user interface to streamline recipe search and user interaction. 
+● 
+
+Integrated a third-party API to retrieve and display over 2 million recipes dynamically based on user input. 
+
+Resume-reviewer— AI-Powered Resume Evaluator| Python (Flask, NLP) and React.js | Github Link 
+
+●  Developed a React.js frontend to handle PDF uploads, job description input, and dynamic result rendering using 
+
+● 
+
+useState, conditional rendering, and Axios for API communication. 
+Implemented a Flask backend to extract resume data with pdfplumber, integrate Gemini AI via secure API, and 
+generate LLM-driven evaluation feedback. 
+
+●  Engineered logic for ATS score computation, section-wise matching, and professional insights using large language 
+
+models (LLMs). 
+
+●  Crafted a clean, responsive UI with a soft pastel theme to enhance usability and user experience. 
+
+Co-Curricular Activities 
+SolVIT Hackathon 2025 – Participant & GenAI Lead 
+
+●  Developed an economic and efficient automated hiring solution for small-scale businesses as part of a 5-member 
+
+team. 
+
+●  Led  the  integration  of  Generative  AI  and  NLP  to  analyze  candidate  profiles,  seamlessly  connecting  backend 
+
+intelligence to a React-based frontend. 
+
+Peer Support & Team Lead – Machine Learning Research Project 
+
+●  Guided a team of 5 in a research initiative focused on SLE detection using Affymetrix MicroArray raw data.  
+●  Oversaw task allocation and spearheaded ML model development, with a primary focus on data preprocessing. 
+
+Additional Information 
+Languages Known: English (Fluent), Hindi (Native) 
+Hobbies & Interests: Painting, Calligraphy, reading spiritual literature, Listening to songs 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+"

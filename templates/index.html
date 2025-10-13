@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="jumbotron">
+  <h1 class="display-5">Smart Resume Screener</h1>
+  <p class="lead">Upload resumes, parse structured data, and match candidates to job descriptions using LLM scoring.</p>
+  <hr>
+  <p>
+    <a class="btn btn-primary" href="{{ url_for('upload') }}">Upload Resume</a>
+    <a class="btn btn-secondary" href="{{ url_for('candidates') }}">View Candidates</a>
+    <a class="btn btn-info" href="{{ url_for('match') }}">Match to Job</a>
+  </p>
+</div>
+{% endblock %}
